@@ -1,0 +1,7 @@
+import collections
+
+nmr_jogador = []
+nmr_votos = []
+pct_votos = []
+
+

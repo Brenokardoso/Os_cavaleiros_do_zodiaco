@@ -1,0 +1,26 @@
+1-Quando você for usar o "for" com essas especificações for( x in algo) o 'X' vale exatamente ao valor de um
+bloco daquela lista,como segue o exemplo lista [1,2,3] então x[0] = 1 , x[1] = 2 e assim vai.
+2-Quando o for "x" se junta com o range ele para a considerar os blocos de divisão da lista e sintetiza o local o quais eles estão,tipo for x in range(len(lista)) x = 0,1,2
+3-O comando sum(range(numero) faz uma iteração iteração ugual fatorial mas com elementos de soma em ordem decrescente ao inves de multiplicação
+4-break só sai do laço interno no qual foi colocado
+5-Pass,serve so mesmo para oq nós usamos até agora,é somente pra poder ignorar uma classes ou função.
+6-O match serve igual à um switch do C++,com um (arg+case+return),Você pode combinar vários literais em um único padrão usando |,assim:"case 01|02|03 // return("nada certo")  
+7-Variaveis normnais podem recebr atribuições de funções e agir como elas,como um F pode receber a unção fib(n) e passar a responder f(n).
+8-Voce tambem pode atribuir nomes em aparmetros de funções,qual a ultilidade?não descobri ainda,se bem que no caso desses argumentos nomeados eles te permitem chamar ou não determinados valores das funções
+9-Expressões lambda,ela recebe 2 argumentos e retorna a soma dos dois
+10-A função __doc__ serve pra usar(até agora) no final dos prints que contenham (def) com documentação,elas por padrão começam com as aspas triplas,assim: """ args """
+11-Posso adcionar uma tupla dentro de outra mas n posso mudar ela
+12-listas funcionam como matrizes em cada item,comosegue o exemplo: lista['breno','amanda'] logo lista[0] == breno,mas, lista[0][0] == b
+
+
+
+a 1 1 1 1
+b 2 2 2 2
+c 3 3 3 3
+d 4 4 4 4
+e 5 5 5 5
+f 6 6 6 6
+g 7 7 7 7
+h 8 8 8 8
+i 9 9 9 9
+j 10 10 10

@@ -1,0 +1,10 @@
+1-Você pode usar a '\' para poder botar aspas simples nas suas srtings,segue o exemplo:'doesn\'t' que fica  = "doesn't",também pode usar a combinação de aspas duaplas + simples,assim: "doesn't"
+2-Você tambem pode usar a \ pra delimitar strings em 2 partes.
+3-Usando o print(r"") voce pode digitar strings com caracteres especiais como o /.
+4-Strings podem ser concatenadas usando um "+" e multiplicadas com um "*".
+5-Indices tambem podem ser numero negativos,nesse caso eles começam pela direita.
+6-fatiamento por index funciona assim = palavra[de x : até y],explo palavra[1:4] == alav.
+7-strings são praticamente imutáveis.
+8-você pode alterar o valor de um bit de um valor em uma  lista usando "variavel[index] = valor".
+9-Usando uma lista[:] = [] voce consegue retirar todos os valores dessa lista,a deixando vazia.
+10 - voce pode juntar duas listas em uma variavel,mas elas não se concatenam,apenas se misturam,assim: lista1=[lista2,list3],então lista 1 = "lista2","lista3".-
